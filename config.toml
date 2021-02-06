@@ -1,0 +1,4 @@
+baseURL = "https://poemsgoodfreew33.vercel.app"
+languageCode = "en-us"
+title = "Poems For Everything"
+theme = "hugo-theme-minos"
